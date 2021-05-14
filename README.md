@@ -26,7 +26,7 @@ The code was implemented in Python(3.8) and PyTroch(1.14.0) on Windows OS. The *
 Citation
 ---------------------
 
-Please kindly cite the paper if this code is useful and helpful for your research.
+Please kindly cite the paper below if this code is useful and helpful for your research.
 
 *TBD*
 

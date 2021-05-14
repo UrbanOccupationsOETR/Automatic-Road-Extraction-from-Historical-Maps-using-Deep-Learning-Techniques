@@ -34,4 +34,4 @@ Please kindly cite the paper if this code is useful and helpful for your researc
 Contact Information
 --------------------
 If you encounter the bugs while using this code, please do not hesitate to contact us.
-Burak Ekim (ekim19@itu.edu.tr)
+- Burak Ekim (ekim19@itu.edu.tr)

@@ -20,7 +20,7 @@ If you want to run the code in your own data, you can accordingly change the *co
 System-specific notes
 ---------------------
 
-The code was implemented in Python(3.8) and PyTroch(1.14.0) on Windows OS. The *segmentation models pytorh* library is used . Apart from main data science libraries, RS-specific libraries such as GDAL, rasterio, and tifffile are used.  
+The code was implemented in Python(3.8) and PyTroch(1.14.0) on Windows OS. The *segmentation models pytorh* library is used as a baseline for implementation. Apart from main data science libraries, RS-specific libraries such as GDAL, rasterio, and tifffile are also required. 
 
 
 Citation

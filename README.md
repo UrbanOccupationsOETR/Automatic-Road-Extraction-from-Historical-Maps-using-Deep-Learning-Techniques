@@ -33,6 +33,6 @@ Please kindly cite the paper below if this code is useful and helpful for your r
 
 Contact Information
 --------------------
-If you encounter the bugs while using this code, please do not hesitate to contact us.
+If you encounter bugs while using this code, please do not hesitate to contact us.
 - Burak Ekim: ekim19@itu.edu.tr<br>
 
